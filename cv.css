@@ -12,16 +12,20 @@ hr {
     color: white;
 }
 
+h1 {
+    font-size: 4vw;
+}
+
 h5 {
     margin-top: 20px;
 }
 
 p {
-    font-size: 1.25rem;
+    font-size: 1.85vw;
 }
 
 li {
-    font-size: 1.25rem;
+    font-size: 2vw;
 }
 
 a {
